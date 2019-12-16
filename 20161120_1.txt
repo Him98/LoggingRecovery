@@ -1,0 +1,6 @@
+<START T2>
+
+A 8 B 7 C 5
+<START T1>
+A 8
+A 8 B 7 C 5

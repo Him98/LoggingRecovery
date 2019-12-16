@@ -1,0 +1,15 @@
+A 8 B 7 C 5
+
+T2 4
+READ(A,t)
+t := t*2
+WRITE(C,t1)
+OUTPUT(C)
+
+T1 6
+WRITE(B,t)
+READ(A,t1)
+t1 := t+2
+WRITE(B,t1)
+OUTPUT(A)
+OUTPUT(B)
